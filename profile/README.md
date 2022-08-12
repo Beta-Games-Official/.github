@@ -7,4 +7,5 @@
 
 <h3>Support Us:</h3>
 <a href="https://ko-fi.com/betagames">Ko-fi</a> (Ko-fi takes 5% of donations)
+<br>
 <a href="paypal.me/BetaGames1">Paypal.me</a>
