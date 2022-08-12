@@ -6,7 +6,6 @@
 <p>As of current we only have 1 SCP:SL server but we are hoping to have 2 more and some Minecraft Java servers as soon as possible.</p>
 
 <h3>Support Us:</h3>
-markdown: kramdown
 [go](https://ko-fi.com/betagames){:target="_blank" rel="noopener"} (Ko-fi takes 5% from donations)
 <br>
 <a href="https://paypal.me/BetaGames1" target="_blank">PayPal.me</a>
